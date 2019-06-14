@@ -1,1 +1,1 @@
-# This project utilizes both node.js and express.js to make a simple interactive quiz. The application relies on server-side functions to determine which popular internet browser is best for you, based on your answers.
+This project utilizes both node.js and express.js to make a simple interactive quiz. The application relies on server-side functionality (javascript) to determine which popular internet browser is best for you, based on your answers.

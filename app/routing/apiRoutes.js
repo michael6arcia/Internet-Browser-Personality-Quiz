@@ -23,7 +23,7 @@ module.exports = function (app) {
             var currentPick = browsers[i];
             totalDifference = 0;
 
-            console.log(currentFriend.name);
+            console.log(currentPick.name);
 
             for (var j = 0; j < currentPick.scores.length; j++) {
                 var currentBrowserScore = currentPick.scores[j];
